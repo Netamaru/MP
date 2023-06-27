@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ora": "5.4.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
